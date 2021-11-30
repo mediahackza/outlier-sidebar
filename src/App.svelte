@@ -18,4 +18,7 @@
   .unemployment {
     margin-top: 100px;
   }
+  .unemployment img {
+    width: 100%;
+  }
 </style>
