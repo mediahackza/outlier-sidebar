@@ -88,7 +88,7 @@
 
 <div class="line-chart">
   <div class="chart-wrap" bind:clientWidth={chartWidth}>
-    <h2>ZA Vaccination Tracker</h2>
+    <h2>SA Covid-19 Tracker</h2>
     <div class="subhead">Updated daily</div>
     <!-- <p>
       Our vaccination tracker is updated daily when new data becomes available.
